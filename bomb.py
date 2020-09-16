@@ -39,7 +39,7 @@ hip("""
 """)
 
 
-print("Вы здесь за русским бомбардировщиком?")
+print("Вы здесь за русским бомбером?")
 ansr = input("Are you here for russian bomber [y/n]? ")
 if ansr == 'y':
     try:
