@@ -3,6 +3,7 @@ This is a program that will put the phone number given under stress
 Step 1:
 
 pip install requests
+
 clone github repository 
 
 Step 2:
